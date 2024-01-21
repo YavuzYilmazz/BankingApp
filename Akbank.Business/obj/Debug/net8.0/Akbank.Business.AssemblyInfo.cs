@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Akbank.Business")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eaf76974fe12548c4213a424c163e93f562b0acc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+175276191ebb48b72093d4440bfda1ad9a2619f4")]
 [assembly: System.Reflection.AssemblyProductAttribute("Akbank.Business")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Akbank.Business")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

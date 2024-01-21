@@ -9,15 +9,46 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ec7fbf0-6470-4a93-ac12-31f19ac49b0a" name="Changes" comment="" />
+    <list default="true" id="7ec7fbf0-6470-4a93-ac12-31f19ac49b0a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Akbank/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Akbank/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Akbank.Base/obj/Debug/net8.0/Akbank.Base.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank.Base/obj/Debug/net8.0/Akbank.Base.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Akbank.Base/obj/Debug/net8.0/Akbank.Base.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank.Base/obj/Debug/net8.0/Akbank.Base.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Akbank.Business/obj/Debug/net8.0/Akbank.Business.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank.Business/obj/Debug/net8.0/Akbank.Business.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Akbank.Business/obj/Debug/net8.0/Akbank.Business.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank.Business/obj/Debug/net8.0/Akbank.Business.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Akbank.Data/Akbank.Data.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank.Data/Akbank.Data.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Akbank.Data/Entity/ExpenseCategory.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank.Data/Entity/ExpenseCategory.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Akbank.Data/Entity/ExpenseRequest.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank.Data/Entity/ExpenseRequest.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Akbank.Data/Entity/Payment.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank.Data/Entity/Payment.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Akbank.Data/Entity/Personel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank.Data/Entity/Personel.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Akbank.Data/Entity/User.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank.Data/Entity/User.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Akbank.Data/obj/Akbank.Data.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank.Data/obj/Akbank.Data.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Akbank.Data/obj/Akbank.Data.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank.Data/obj/Akbank.Data.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Akbank.Data/obj/Akbank.Data.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank.Data/obj/Akbank.Data.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Akbank.Data/obj/Debug/net8.0/Akbank.Data.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank.Data/obj/Debug/net8.0/Akbank.Data.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Akbank.Data/obj/Debug/net8.0/Akbank.Data.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank.Data/obj/Debug/net8.0/Akbank.Data.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Akbank.Data/obj/Debug/net8.0/Akbank.Data.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank.Data/obj/Debug/net8.0/Akbank.Data.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Akbank.Data/obj/Debug/net8.0/Akbank.Data.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank.Data/obj/Debug/net8.0/Akbank.Data.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Akbank.Data/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank.Data/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Akbank.Data/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank.Data/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Akbank.Data/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank.Data/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Akbank.Data/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank.Data/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Akbank.Data/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank.Data/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Akbank.Schema/obj/Debug/net8.0/Akbank.Schema.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank.Schema/obj/Debug/net8.0/Akbank.Schema.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Akbank.Schema/obj/Debug/net8.0/Akbank.Schema.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank.Schema/obj/Debug/net8.0/Akbank.Schema.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Akbank/obj/Debug/net8.0/Akbank.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank/obj/Debug/net8.0/Akbank.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Akbank/obj/Debug/net8.0/Akbank.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank/obj/Debug/net8.0/Akbank.AssemblyInfoInputs.cache" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2bHEsTI1HVDbwkQiHfDbTFLRgPo" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -27,6 +58,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -97,7 +129,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705863812235</updated>
-      <workItem from="1705863817308" duration="1708000" />
+      <workItem from="1705863817308" duration="2909000" />
+      <workItem from="1705866964778" duration="664000" />
     </task>
     <servers />
   </component>
