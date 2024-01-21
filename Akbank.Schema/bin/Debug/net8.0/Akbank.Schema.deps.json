@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v8.0": {
       "Akbank.Schema/1.0.0": {
+        "dependencies": {
+          "Akbank.Base": "1.0.0"
+        },
         "runtime": {
           "Akbank.Schema.dll": {}
+        }
+      },
+      "Akbank.Base/1.0.0": {
+        "runtime": {
+          "Akbank.Base.dll": {}
         }
       }
     }
   },
   "libraries": {
     "Akbank.Schema/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Akbank.Base/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

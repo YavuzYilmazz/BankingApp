@@ -10,3 +10,11 @@ C:\Users\Lenovo\RiderProjects\akbank\Akbank.Business\obj\Debug\net8.0\Akbank.Bus
 C:\Users\Lenovo\RiderProjects\akbank\Akbank.Business\obj\Debug\net8.0\refint\Akbank.Business.dll
 C:\Users\Lenovo\RiderProjects\akbank\Akbank.Business\obj\Debug\net8.0\Akbank.Business.pdb
 C:\Users\Lenovo\RiderProjects\akbank\Akbank.Business\obj\Debug\net8.0\ref\Akbank.Business.dll
+C:\Users\Lenovo\RiderProjects\akbank\Akbank.Business\bin\Debug\net8.0\Akbank.Base.dll
+C:\Users\Lenovo\RiderProjects\akbank\Akbank.Business\bin\Debug\net8.0\Akbank.Data.dll
+C:\Users\Lenovo\RiderProjects\akbank\Akbank.Business\bin\Debug\net8.0\Akbank.Schema.dll
+C:\Users\Lenovo\RiderProjects\akbank\Akbank.Business\bin\Debug\net8.0\Akbank.Data.pdb
+C:\Users\Lenovo\RiderProjects\akbank\Akbank.Business\bin\Debug\net8.0\Akbank.Schema.pdb
+C:\Users\Lenovo\RiderProjects\akbank\Akbank.Business\bin\Debug\net8.0\Akbank.Base.pdb
+C:\Users\Lenovo\RiderProjects\akbank\Akbank.Business\obj\Debug\net8.0\Akbank.Business.csproj.AssemblyReference.cache
+C:\Users\Lenovo\RiderProjects\akbank\Akbank.Business\obj\Debug\net8.0\Akbank.Business.csproj.CopyComplete

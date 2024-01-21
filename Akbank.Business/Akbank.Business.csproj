@@ -5,12 +5,21 @@
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
     </PropertyGroup>
-
+    
     <ItemGroup>
-      <Folder Include="Command\" />
-      <Folder Include="Cqrs\" />
-      <Folder Include="Mapper\" />
-      <Folder Include="Query\" />
+        <PackageReference Include="Hangfire" Version="1.7.28" />
+        <PackageReference Include="Hangfire.PostgreSql" Version="1.9.8" />
+        <PackageReference Include="Hangfire.PostgreSql.Npgsql5" Version="1.9.8" />
+        <PackageReference Include="MediatR" Version="12.0.0"/>
+        <PackageReference Include="AutoMapper" Version="12.0.0"/>
+        <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="11.1.0"/>
+        <PackageReference Include="FluentValidation.AspNetCore" Version="9.5.2" />
+        <PackageReference Include="FluentValidation.DependencyInjectionExtensions" Version="9.5.2" />
+    </ItemGroup>
+    
+    <ItemGroup>
+      <ProjectReference Include="..\Akbank.Data\Akbank.Data.csproj" />
+      <ProjectReference Include="..\Akbank.Schema\Akbank.Schema.csproj" />
     </ItemGroup>
 
 </Project>

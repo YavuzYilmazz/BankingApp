@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lenovo\\RiderProjects\\Akbank\\Akbank\\Akbank.csproj": {}
+    "C:\\Users\\Lenovo\\RiderProjects\\akbank\\Akbank\\Akbank.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lenovo\\RiderProjects\\Akbank\\Akbank.Base\\Akbank.Base.csproj": {
+    "C:\\Users\\Lenovo\\RiderProjects\\akbank\\Akbank.Base\\Akbank.Base.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovo\\RiderProjects\\Akbank\\Akbank.Base\\Akbank.Base.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\RiderProjects\\akbank\\Akbank.Base\\Akbank.Base.csproj",
         "projectName": "Akbank.Base",
-        "projectPath": "C:\\Users\\Lenovo\\RiderProjects\\Akbank\\Akbank.Base\\Akbank.Base.csproj",
+        "projectPath": "C:\\Users\\Lenovo\\RiderProjects\\akbank\\Akbank.Base\\Akbank.Base.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenovo\\RiderProjects\\Akbank\\Akbank.Base\\obj\\",
+        "outputPath": "C:\\Users\\Lenovo\\RiderProjects\\akbank\\Akbank.Base\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -57,14 +57,14 @@
         }
       }
     },
-    "C:\\Users\\Lenovo\\RiderProjects\\Akbank\\Akbank.Data\\Akbank.Data.csproj": {
+    "C:\\Users\\Lenovo\\RiderProjects\\akbank\\Akbank.Data\\Akbank.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovo\\RiderProjects\\Akbank\\Akbank.Data\\Akbank.Data.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\RiderProjects\\akbank\\Akbank.Data\\Akbank.Data.csproj",
         "projectName": "Akbank.Data",
-        "projectPath": "C:\\Users\\Lenovo\\RiderProjects\\Akbank\\Akbank.Data\\Akbank.Data.csproj",
+        "projectPath": "C:\\Users\\Lenovo\\RiderProjects\\akbank\\Akbank.Data\\Akbank.Data.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenovo\\RiderProjects\\Akbank\\Akbank.Data\\obj\\",
+        "outputPath": "C:\\Users\\Lenovo\\RiderProjects\\akbank\\Akbank.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -79,8 +79,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Lenovo\\RiderProjects\\Akbank\\Akbank.Base\\Akbank.Base.csproj": {
-                "projectPath": "C:\\Users\\Lenovo\\RiderProjects\\Akbank\\Akbank.Base\\Akbank.Base.csproj"
+              "C:\\Users\\Lenovo\\RiderProjects\\akbank\\Akbank.Base\\Akbank.Base.csproj": {
+                "projectPath": "C:\\Users\\Lenovo\\RiderProjects\\akbank\\Akbank.Base\\Akbank.Base.csproj"
               }
             }
           }
@@ -139,14 +139,14 @@
         }
       }
     },
-    "C:\\Users\\Lenovo\\RiderProjects\\Akbank\\Akbank\\Akbank.csproj": {
+    "C:\\Users\\Lenovo\\RiderProjects\\akbank\\Akbank\\Akbank.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovo\\RiderProjects\\Akbank\\Akbank\\Akbank.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\RiderProjects\\akbank\\Akbank\\Akbank.csproj",
         "projectName": "Akbank",
-        "projectPath": "C:\\Users\\Lenovo\\RiderProjects\\Akbank\\Akbank\\Akbank.csproj",
+        "projectPath": "C:\\Users\\Lenovo\\RiderProjects\\akbank\\Akbank\\Akbank.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenovo\\RiderProjects\\Akbank\\Akbank\\obj\\",
+        "outputPath": "C:\\Users\\Lenovo\\RiderProjects\\akbank\\Akbank\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -161,8 +161,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Lenovo\\RiderProjects\\Akbank\\Akbank.Data\\Akbank.Data.csproj": {
-                "projectPath": "C:\\Users\\Lenovo\\RiderProjects\\Akbank\\Akbank.Data\\Akbank.Data.csproj"
+              "C:\\Users\\Lenovo\\RiderProjects\\akbank\\Akbank.Data\\Akbank.Data.csproj": {
+                "projectPath": "C:\\Users\\Lenovo\\RiderProjects\\akbank\\Akbank.Data\\Akbank.Data.csproj"
               }
             }
           }

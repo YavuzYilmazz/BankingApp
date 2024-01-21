@@ -10,3 +10,7 @@ C:\Users\Lenovo\RiderProjects\akbank\Akbank.Schema\obj\Debug\net8.0\Akbank.Schem
 C:\Users\Lenovo\RiderProjects\akbank\Akbank.Schema\obj\Debug\net8.0\refint\Akbank.Schema.dll
 C:\Users\Lenovo\RiderProjects\akbank\Akbank.Schema\obj\Debug\net8.0\Akbank.Schema.pdb
 C:\Users\Lenovo\RiderProjects\akbank\Akbank.Schema\obj\Debug\net8.0\ref\Akbank.Schema.dll
+C:\Users\Lenovo\RiderProjects\akbank\Akbank.Schema\bin\Debug\net8.0\Akbank.Base.dll
+C:\Users\Lenovo\RiderProjects\akbank\Akbank.Schema\bin\Debug\net8.0\Akbank.Base.pdb
+C:\Users\Lenovo\RiderProjects\akbank\Akbank.Schema\obj\Debug\net8.0\Akbank.Schema.csproj.AssemblyReference.cache
+C:\Users\Lenovo\RiderProjects\akbank\Akbank.Schema\obj\Debug\net8.0\Akbank.Schema.csproj.CopyComplete

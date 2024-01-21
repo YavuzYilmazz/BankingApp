@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MgviWzny+4TetegQehP2AO41MyZqWTievdOpJTuo49Nooxw7rFaY+WA3dQFF+JCUhJA+/ak+q5jRWCa+pYcFIQ==",
+  "dgSpecHash": "Nb9eZUseJ/RWO8Elp10nf5IpwTuo1MCnz2jmhBxuVywA2RMMjkr3DWr5IeA8DlZ5AIeeTnA2GHc8NKcMXWExmg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lenovo\\RiderProjects\\Akbank\\Akbank\\Akbank.csproj",
+  "projectFilePath": "C:\\Users\\Lenovo\\RiderProjects\\akbank\\Akbank\\Akbank.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lenovo\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

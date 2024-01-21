@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lenovo\\RiderProjects\\Akbank\\Akbank.Base\\Akbank.Base.csproj": {}
+    "C:\\Users\\Lenovo\\RiderProjects\\akbank\\Akbank.Base\\Akbank.Base.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lenovo\\RiderProjects\\Akbank\\Akbank.Base\\Akbank.Base.csproj": {
+    "C:\\Users\\Lenovo\\RiderProjects\\akbank\\Akbank.Base\\Akbank.Base.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovo\\RiderProjects\\Akbank\\Akbank.Base\\Akbank.Base.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\RiderProjects\\akbank\\Akbank.Base\\Akbank.Base.csproj",
         "projectName": "Akbank.Base",
-        "projectPath": "C:\\Users\\Lenovo\\RiderProjects\\Akbank\\Akbank.Base\\Akbank.Base.csproj",
+        "projectPath": "C:\\Users\\Lenovo\\RiderProjects\\akbank\\Akbank.Base\\Akbank.Base.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenovo\\RiderProjects\\Akbank\\Akbank.Base\\obj\\",
+        "outputPath": "C:\\Users\\Lenovo\\RiderProjects\\akbank\\Akbank.Base\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config"
