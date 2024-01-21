@@ -1,0 +1,6 @@
+@akbank_HostAddress = http://localhost:5244
+
+GET {{akbank_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
