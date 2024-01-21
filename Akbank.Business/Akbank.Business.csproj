@@ -6,4 +6,11 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <Folder Include="Command\" />
+      <Folder Include="Cqrs\" />
+      <Folder Include="Mapper\" />
+      <Folder Include="Query\" />
+    </ItemGroup>
+
 </Project>
