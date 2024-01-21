@@ -1,0 +1,12 @@
+C:\Users\Lenovo\RiderProjects\akbank\Akbank.Business\bin\Debug\net8.0\Akbank.Business.deps.json
+C:\Users\Lenovo\RiderProjects\akbank\Akbank.Business\bin\Debug\net8.0\Akbank.Business.dll
+C:\Users\Lenovo\RiderProjects\akbank\Akbank.Business\bin\Debug\net8.0\Akbank.Business.pdb
+C:\Users\Lenovo\RiderProjects\akbank\Akbank.Business\obj\Debug\net8.0\Akbank.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\RiderProjects\akbank\Akbank.Business\obj\Debug\net8.0\Akbank.Business.AssemblyInfoInputs.cache
+C:\Users\Lenovo\RiderProjects\akbank\Akbank.Business\obj\Debug\net8.0\Akbank.Business.AssemblyInfo.cs
+C:\Users\Lenovo\RiderProjects\akbank\Akbank.Business\obj\Debug\net8.0\Akbank.Business.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\RiderProjects\akbank\Akbank.Business\obj\Debug\net8.0\Akbank.Business.sourcelink.json
+C:\Users\Lenovo\RiderProjects\akbank\Akbank.Business\obj\Debug\net8.0\Akbank.Business.dll
+C:\Users\Lenovo\RiderProjects\akbank\Akbank.Business\obj\Debug\net8.0\refint\Akbank.Business.dll
+C:\Users\Lenovo\RiderProjects\akbank\Akbank.Business\obj\Debug\net8.0\Akbank.Business.pdb
+C:\Users\Lenovo\RiderProjects\akbank\Akbank.Business\obj\Debug\net8.0\ref\Akbank.Business.dll

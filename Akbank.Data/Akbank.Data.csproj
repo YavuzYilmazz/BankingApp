@@ -6,4 +6,8 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\Akbank.Base\Akbank.Base.csproj" />
+    </ItemGroup>
+
 </Project>

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Akbank.Business/1.0.0": {
+        "runtime": {
+          "Akbank.Business.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Akbank.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

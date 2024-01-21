@@ -1,0 +1,12 @@
+C:\Users\Lenovo\RiderProjects\akbank\Akbank.Schema\bin\Debug\net8.0\Akbank.Schema.deps.json
+C:\Users\Lenovo\RiderProjects\akbank\Akbank.Schema\bin\Debug\net8.0\Akbank.Schema.dll
+C:\Users\Lenovo\RiderProjects\akbank\Akbank.Schema\bin\Debug\net8.0\Akbank.Schema.pdb
+C:\Users\Lenovo\RiderProjects\akbank\Akbank.Schema\obj\Debug\net8.0\Akbank.Schema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\RiderProjects\akbank\Akbank.Schema\obj\Debug\net8.0\Akbank.Schema.AssemblyInfoInputs.cache
+C:\Users\Lenovo\RiderProjects\akbank\Akbank.Schema\obj\Debug\net8.0\Akbank.Schema.AssemblyInfo.cs
+C:\Users\Lenovo\RiderProjects\akbank\Akbank.Schema\obj\Debug\net8.0\Akbank.Schema.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\RiderProjects\akbank\Akbank.Schema\obj\Debug\net8.0\Akbank.Schema.sourcelink.json
+C:\Users\Lenovo\RiderProjects\akbank\Akbank.Schema\obj\Debug\net8.0\Akbank.Schema.dll
+C:\Users\Lenovo\RiderProjects\akbank\Akbank.Schema\obj\Debug\net8.0\refint\Akbank.Schema.dll
+C:\Users\Lenovo\RiderProjects\akbank\Akbank.Schema\obj\Debug\net8.0\Akbank.Schema.pdb
+C:\Users\Lenovo\RiderProjects\akbank\Akbank.Schema\obj\Debug\net8.0\ref\Akbank.Schema.dll
