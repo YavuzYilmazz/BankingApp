@@ -75,56 +75,6 @@
           }
         }
       },
-      "FluentValidation/9.5.2": {
-        "type": "package",
-        "compile": {
-          "lib/net5.0/FluentValidation.dll": {
-            "related": ".xml"
-          }
-        },
-        "runtime": {
-          "lib/net5.0/FluentValidation.dll": {
-            "related": ".xml"
-          }
-        }
-      },
-      "FluentValidation.AspNetCore/9.5.2": {
-        "type": "package",
-        "dependencies": {
-          "FluentValidation": "9.5.2",
-          "FluentValidation.DependencyInjectionExtensions": "9.5.2"
-        },
-        "compile": {
-          "lib/net5.0/FluentValidation.AspNetCore.dll": {
-            "related": ".xml"
-          }
-        },
-        "runtime": {
-          "lib/net5.0/FluentValidation.AspNetCore.dll": {
-            "related": ".xml"
-          }
-        },
-        "frameworkReferences": [
-          "Microsoft.AspNetCore.App"
-        ]
-      },
-      "FluentValidation.DependencyInjectionExtensions/9.5.2": {
-        "type": "package",
-        "dependencies": {
-          "FluentValidation": "9.5.2",
-          "Microsoft.Extensions.Dependencyinjection.Abstractions": "2.1.0"
-        },
-        "compile": {
-          "lib/netstandard2.0/FluentValidation.DependencyInjectionExtensions.dll": {
-            "related": ".xml"
-          }
-        },
-        "runtime": {
-          "lib/netstandard2.0/FluentValidation.DependencyInjectionExtensions.dll": {
-            "related": ".xml"
-          }
-        }
-      },
       "Hangfire/1.7.28": {
         "type": "package",
         "dependencies": {
@@ -216,21 +166,6 @@
           "Hangfire.Core": "1.7.27",
           "Microsoft.CSharp": "4.7.0",
           "Npgsql": "6.0.0"
-        },
-        "compile": {
-          "lib/netstandard2.0/Hangfire.PostgreSql.dll": {}
-        },
-        "runtime": {
-          "lib/netstandard2.0/Hangfire.PostgreSql.dll": {}
-        }
-      },
-      "Hangfire.PostgreSql.Npgsql5/1.9.8": {
-        "type": "package",
-        "dependencies": {
-          "Dapper": "2.0.123",
-          "Hangfire.Core": "1.7.27",
-          "Microsoft.CSharp": "4.7.0",
-          "Npgsql": "5.0.0"
         },
         "compile": {
           "lib/netstandard2.0/Hangfire.PostgreSql.dll": {}
@@ -1548,56 +1483,6 @@
         "lib/netstandard2.0/Dapper.xml"
       ]
     },
-    "FluentValidation/9.5.2": {
-      "sha512": "0TepAypNoZAFmthXnDTDrG55SyKKiv4rar2TtbS5GHbTv/TYwKJBbTxHg8YWCxLgZpe8n9jImIc0tMHKDVgA1A==",
-      "type": "package",
-      "path": "fluentvalidation/9.5.2",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "fluent-validation-icon.png",
-        "fluentvalidation.9.5.2.nupkg.sha512",
-        "fluentvalidation.nuspec",
-        "lib/net461/FluentValidation.dll",
-        "lib/net461/FluentValidation.xml",
-        "lib/net5.0/FluentValidation.dll",
-        "lib/net5.0/FluentValidation.xml",
-        "lib/netstandard2.0/FluentValidation.dll",
-        "lib/netstandard2.0/FluentValidation.xml"
-      ]
-    },
-    "FluentValidation.AspNetCore/9.5.2": {
-      "sha512": "u4viym3RnPBvyopMJB0bY5i6rD96FujFZbPJYzTQUjXfwpc+NA8zoq3VBBWg3hYNlcCEvZJFIG5ZXtO9AejqgA==",
-      "type": "package",
-      "path": "fluentvalidation.aspnetcore/9.5.2",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "fluent-validation-icon.png",
-        "fluentvalidation.aspnetcore.9.5.2.nupkg.sha512",
-        "fluentvalidation.aspnetcore.nuspec",
-        "lib/net5.0/FluentValidation.AspNetCore.dll",
-        "lib/net5.0/FluentValidation.AspNetCore.xml",
-        "lib/netcoreapp2.1/FluentValidation.AspNetCore.dll",
-        "lib/netcoreapp2.1/FluentValidation.AspNetCore.xml",
-        "lib/netcoreapp3.1/FluentValidation.AspNetCore.dll",
-        "lib/netcoreapp3.1/FluentValidation.AspNetCore.xml"
-      ]
-    },
-    "FluentValidation.DependencyInjectionExtensions/9.5.2": {
-      "sha512": "4gLj2yfweItyxydDVfz3FVVltNJCwwDbrpZ/Gphk08KCfWJL0no7hXsnuWUJmLuvre2Cjr1XP64LX21tf8N81w==",
-      "type": "package",
-      "path": "fluentvalidation.dependencyinjectionextensions/9.5.2",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "fluent-validation-icon.png",
-        "fluentvalidation.dependencyinjectionextensions.9.5.2.nupkg.sha512",
-        "fluentvalidation.dependencyinjectionextensions.nuspec",
-        "lib/netstandard2.0/FluentValidation.DependencyInjectionExtensions.dll",
-        "lib/netstandard2.0/FluentValidation.DependencyInjectionExtensions.xml"
-      ]
-    },
     "Hangfire/1.7.28": {
       "sha512": "Br47RTFnw+MUnbRwZnPCErXaWemMMlCbwAt9exP4Rsj1KxS2VR7jCLPA1boTecssLQyjCXAbRfWFs3Pf9istFw==",
       "type": "package",
@@ -1724,19 +1609,6 @@
         "LICENSE.md",
         "hangfire.postgresql.1.9.8.nupkg.sha512",
         "hangfire.postgresql.nuspec",
-        "lib/netstandard2.0/Hangfire.PostgreSql.dll"
-      ]
-    },
-    "Hangfire.PostgreSql.Npgsql5/1.9.8": {
-      "sha512": "Dppl3brTs1a0Zbb8pA++tGBwaTZJaiLiHI4uEVA4+wnZgxUPyFeYQjdunGHt9/whQU3AiG1owcPgnCgJEOe+JQ==",
-      "type": "package",
-      "path": "hangfire.postgresql.npgsql5/1.9.8",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "LICENSE.md",
-        "hangfire.postgresql.npgsql5.1.9.8.nupkg.sha512",
-        "hangfire.postgresql.npgsql5.nuspec",
         "lib/netstandard2.0/Hangfire.PostgreSql.dll"
       ]
     },
@@ -3827,11 +3699,8 @@
       "Akbank.Data >= 1.0.0",
       "Akbank.Schema >= 1.0.0",
       "AutoMapper >= 12.0.0",
-      "FluentValidation.AspNetCore >= 9.5.2",
-      "FluentValidation.DependencyInjectionExtensions >= 9.5.2",
       "Hangfire >= 1.7.28",
       "Hangfire.PostgreSql >= 1.9.8",
-      "Hangfire.PostgreSql.Npgsql5 >= 1.9.8",
       "MediatR >= 12.0.0",
       "MediatR.Extensions.Microsoft.DependencyInjection >= 11.1.0"
     ]
@@ -3884,23 +3753,11 @@
             "target": "Package",
             "version": "[12.0.0, )"
           },
-          "FluentValidation.AspNetCore": {
-            "target": "Package",
-            "version": "[9.5.2, )"
-          },
-          "FluentValidation.DependencyInjectionExtensions": {
-            "target": "Package",
-            "version": "[9.5.2, )"
-          },
           "Hangfire": {
             "target": "Package",
             "version": "[1.7.28, )"
           },
           "Hangfire.PostgreSql": {
-            "target": "Package",
-            "version": "[1.9.8, )"
-          },
-          "Hangfire.PostgreSql.Npgsql5": {
             "target": "Package",
             "version": "[1.9.8, )"
           },

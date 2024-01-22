@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "DJ6HesQR0xKMO6gm9ks6bSbT3nfK52/sBWhnStW8n1eEsByfj2CbqbAcCvzk6HMmINpNydaKLS0+xsmTCx7RqQ==",
+  "dgSpecHash": "4j8VdqJ9/MWYgAlANONVGlOOGHlB7CZARm7aOJ4qjaNbblGcpN0pR8xMGhgJMvthacw+tQ8qcXpRTo4xIbq2ng==",
   "success": true,
   "projectFilePath": "C:\\Users\\Lenovo\\RiderProjects\\akbank\\Akbank.Business\\Akbank.Business.csproj",
   "expectedPackageFiles": [
@@ -8,14 +8,10 @@
     "C:\\Users\\Lenovo\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
-    "C:\\Users\\Lenovo\\.nuget\\packages\\fluentvalidation\\9.5.2\\fluentvalidation.9.5.2.nupkg.sha512",
-    "C:\\Users\\Lenovo\\.nuget\\packages\\fluentvalidation.aspnetcore\\9.5.2\\fluentvalidation.aspnetcore.9.5.2.nupkg.sha512",
-    "C:\\Users\\Lenovo\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\9.5.2\\fluentvalidation.dependencyinjectionextensions.9.5.2.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\hangfire\\1.7.28\\hangfire.1.7.28.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\hangfire.aspnetcore\\1.7.28\\hangfire.aspnetcore.1.7.28.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\hangfire.core\\1.7.28\\hangfire.core.1.7.28.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\hangfire.postgresql\\1.9.8\\hangfire.postgresql.1.9.8.nupkg.sha512",
-    "C:\\Users\\Lenovo\\.nuget\\packages\\hangfire.postgresql.npgsql5\\1.9.8\\hangfire.postgresql.npgsql5.1.9.8.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\hangfire.sqlserver\\1.7.28\\hangfire.sqlserver.1.7.28.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\mediatr\\12.0.0\\mediatr.12.0.0.nupkg.sha512",

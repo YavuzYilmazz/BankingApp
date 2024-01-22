@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Akbank.Data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cf2208112b4d22fa19982cdee9b684443e4c874c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c6d9b63133a06c270a65c1442ba48db09a7967a1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Akbank.Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Akbank.Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
