@@ -27,7 +27,8 @@ public class ExpenseRequestCommandHandler :
     public async Task<ApiResponse<ExpenseRequestResponse>> Handle(CreateExpenseRequestCommand request, CancellationToken cancellationToken)
     {
         var entity = mapper.Map<ExpenseRequestRequest, ExpenseRequest>(request.Model);
-        // İlgili işlemleri yapabilirsiniz (örneğin ID ataması, vb.).
+        // operations (e.g. ID assignment, etc.).
+
 
         var entityResult = await dbContext.AddAsync(entity, cancellationToken);
         await dbContext.SaveChangesAsync(cancellationToken);
@@ -45,7 +46,7 @@ public class ExpenseRequestCommandHandler :
             return new ApiResponse("Record not found");
         }
 
-        // Gerekli güncelleme işlemlerini yapabilirsiniz.
+        // update.
         fromdb.RequestAmount = request.Model.RequestAmount;
         fromdb.Description = request.Model.Description;
 
@@ -63,7 +64,7 @@ public class ExpenseRequestCommandHandler :
             return new ApiResponse("Record not found");
         }
 
-        // Gerekli silme işlemlerini yapabilirsiniz.
+        // delete.
         fromdb.IsActive = false;
         await dbContext.SaveChangesAsync(cancellationToken);
         return new ApiResponse();

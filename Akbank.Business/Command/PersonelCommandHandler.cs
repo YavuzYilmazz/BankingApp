@@ -27,7 +27,8 @@ public class PersonelCommandHandler :
     public async Task<ApiResponse<PersonelResponse>> Handle(CreatePersonelCommand request, CancellationToken cancellationToken)
     {
         var entity = mapper.Map<PersonelRequest, Personel>(request.Model);
-        // İlgili işlemleri yapabilirsiniz (örneğin ID ataması, vb.).
+        // operations (e.g. ID assignment, etc.).
+
 
         var entityResult = await dbContext.AddAsync(entity, cancellationToken);
         await dbContext.SaveChangesAsync(cancellationToken);
@@ -45,7 +46,7 @@ public class PersonelCommandHandler :
             return new ApiResponse("Record not found");
         }
 
-        // Gerekli güncelleme işlemlerini yapabilirsiniz.
+        // update.
         fromdb.FirstName = request.Model.FirstName;
         fromdb.LastName = request.Model.LastName;
         fromdb.IBAN = request.Model.IBAN;
@@ -64,7 +65,7 @@ public class PersonelCommandHandler :
             return new ApiResponse("Record not found");
         }
 
-        // Gerekli silme işlemlerini yapabilirsiniz.
+        // delete.
         fromdb.IsActive = false;
         await dbContext.SaveChangesAsync(cancellationToken);
         return new ApiResponse();

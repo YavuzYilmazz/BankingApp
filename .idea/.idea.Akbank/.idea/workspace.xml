@@ -9,109 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ec7fbf0-6470-4a93-ac12-31f19ac49b0a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Akbank/Controllers/ExpenseCategoriesController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Akbank/Controllers/ExpenseRequestsController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Akbank/Controllers/PaymentsController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Akbank/Controllers/PersonelsController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Akbank/Controllers/UsersController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Akbank/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Akbank/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Akbank.Base/bin/Debug/net8.0/Akbank.Base.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank.Base/bin/Debug/net8.0/Akbank.Base.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Akbank.Base/bin/Debug/net8.0/Akbank.Base.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank.Base/bin/Debug/net8.0/Akbank.Base.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Akbank.Base/obj/Debug/net8.0/Akbank.Base.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank.Base/obj/Debug/net8.0/Akbank.Base.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Akbank.Base/obj/Debug/net8.0/Akbank.Base.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank.Base/obj/Debug/net8.0/Akbank.Base.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Akbank.Base/obj/Debug/net8.0/Akbank.Base.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank.Base/obj/Debug/net8.0/Akbank.Base.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Akbank.Base/obj/Debug/net8.0/Akbank.Base.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank.Base/obj/Debug/net8.0/Akbank.Base.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Akbank.Base/obj/Debug/net8.0/Akbank.Base.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank.Base/obj/Debug/net8.0/Akbank.Base.sourcelink.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Akbank.Base/obj/Debug/net8.0/ref/Akbank.Base.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank.Base/obj/Debug/net8.0/ref/Akbank.Base.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Akbank.Base/obj/Debug/net8.0/refint/Akbank.Base.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank.Base/obj/Debug/net8.0/refint/Akbank.Base.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Akbank.Base/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank.Base/obj/rider.project.model.nuget.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Akbank.Base/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank.Base/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Akbank.Business/Akbank.Business.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank.Business/Akbank.Business.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Akbank.Business/bin/Debug/net8.0/Akbank.Base.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank.Business/bin/Debug/net8.0/Akbank.Base.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Akbank.Business/bin/Debug/net8.0/Akbank.Base.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank.Business/bin/Debug/net8.0/Akbank.Base.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Akbank.Business/bin/Debug/net8.0/Akbank.Business.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank.Business/bin/Debug/net8.0/Akbank.Business.deps.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Akbank.Business/bin/Debug/net8.0/Akbank.Business.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank.Business/bin/Debug/net8.0/Akbank.Business.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Akbank.Business/bin/Debug/net8.0/Akbank.Business.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank.Business/bin/Debug/net8.0/Akbank.Business.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Akbank.Business/bin/Debug/net8.0/Akbank.Data.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank.Business/bin/Debug/net8.0/Akbank.Data.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Akbank.Business/bin/Debug/net8.0/Akbank.Data.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank.Business/bin/Debug/net8.0/Akbank.Data.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Akbank.Business/bin/Debug/net8.0/Akbank.Schema.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank.Business/bin/Debug/net8.0/Akbank.Schema.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Akbank.Business/bin/Debug/net8.0/Akbank.Schema.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank.Business/bin/Debug/net8.0/Akbank.Schema.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Akbank.Business/obj/Akbank.Business.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank.Business/obj/Akbank.Business.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Akbank.Business/obj/Debug/net8.0/Akbank.Business.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank.Business/obj/Debug/net8.0/Akbank.Business.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Akbank.Business/obj/Debug/net8.0/Akbank.Business.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank.Business/obj/Debug/net8.0/Akbank.Business.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Akbank.Business/obj/Debug/net8.0/Akbank.Business.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank.Business/obj/Debug/net8.0/Akbank.Business.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Akbank.Business/obj/Debug/net8.0/Akbank.Business.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank.Business/obj/Debug/net8.0/Akbank.Business.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Akbank.Business/obj/Debug/net8.0/Akbank.Business.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank.Business/obj/Debug/net8.0/Akbank.Business.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Akbank.Business/obj/Debug/net8.0/Akbank.Business.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank.Business/obj/Debug/net8.0/Akbank.Business.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Akbank.Business/obj/Debug/net8.0/Akbank.Business.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank.Business/obj/Debug/net8.0/Akbank.Business.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Akbank.Business/obj/Debug/net8.0/Akbank.Business.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank.Business/obj/Debug/net8.0/Akbank.Business.sourcelink.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Akbank.Business/obj/Debug/net8.0/ref/Akbank.Business.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank.Business/obj/Debug/net8.0/ref/Akbank.Business.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Akbank.Business/obj/Debug/net8.0/refint/Akbank.Business.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank.Business/obj/Debug/net8.0/refint/Akbank.Business.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Akbank.Business/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank.Business/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Akbank.Business/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank.Business/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Akbank.Business/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank.Business/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Akbank.Business/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank.Business/obj/rider.project.model.nuget.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Akbank.Business/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank.Business/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Akbank.Data/bin/Debug/net8.0/Akbank.Base.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank.Data/bin/Debug/net8.0/Akbank.Base.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Akbank.Data/bin/Debug/net8.0/Akbank.Base.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank.Data/bin/Debug/net8.0/Akbank.Base.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Akbank.Data/bin/Debug/net8.0/Akbank.Data.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank.Data/bin/Debug/net8.0/Akbank.Data.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Akbank.Data/bin/Debug/net8.0/Akbank.Data.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank.Data/bin/Debug/net8.0/Akbank.Data.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Akbank.Data/obj/Debug/net8.0/Akbank.Data.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank.Data/obj/Debug/net8.0/Akbank.Data.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Akbank.Data/obj/Debug/net8.0/Akbank.Data.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank.Data/obj/Debug/net8.0/Akbank.Data.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Akbank.Data/obj/Debug/net8.0/Akbank.Data.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank.Data/obj/Debug/net8.0/Akbank.Data.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Akbank.Data/obj/Debug/net8.0/Akbank.Data.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank.Data/obj/Debug/net8.0/Akbank.Data.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Akbank.Data/obj/Debug/net8.0/Akbank.Data.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank.Data/obj/Debug/net8.0/Akbank.Data.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Akbank.Data/obj/Debug/net8.0/Akbank.Data.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank.Data/obj/Debug/net8.0/Akbank.Data.sourcelink.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Akbank.Data/obj/Debug/net8.0/ref/Akbank.Data.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank.Data/obj/Debug/net8.0/ref/Akbank.Data.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Akbank.Data/obj/Debug/net8.0/refint/Akbank.Data.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank.Data/obj/Debug/net8.0/refint/Akbank.Data.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Akbank.Data/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank.Data/obj/rider.project.model.nuget.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Akbank.Data/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank.Data/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Akbank.Schema/bin/Debug/net8.0/Akbank.Base.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank.Schema/bin/Debug/net8.0/Akbank.Base.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Akbank.Schema/bin/Debug/net8.0/Akbank.Base.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank.Schema/bin/Debug/net8.0/Akbank.Base.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Akbank.Schema/bin/Debug/net8.0/Akbank.Schema.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank.Schema/bin/Debug/net8.0/Akbank.Schema.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Akbank.Schema/bin/Debug/net8.0/Akbank.Schema.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank.Schema/bin/Debug/net8.0/Akbank.Schema.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Akbank.Schema/obj/Debug/net8.0/Akbank.Schema.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank.Schema/obj/Debug/net8.0/Akbank.Schema.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Akbank.Schema/obj/Debug/net8.0/Akbank.Schema.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank.Schema/obj/Debug/net8.0/Akbank.Schema.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Akbank.Schema/obj/Debug/net8.0/Akbank.Schema.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank.Schema/obj/Debug/net8.0/Akbank.Schema.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Akbank.Schema/obj/Debug/net8.0/Akbank.Schema.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank.Schema/obj/Debug/net8.0/Akbank.Schema.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Akbank.Schema/obj/Debug/net8.0/Akbank.Schema.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank.Schema/obj/Debug/net8.0/Akbank.Schema.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Akbank.Schema/obj/Debug/net8.0/Akbank.Schema.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank.Schema/obj/Debug/net8.0/Akbank.Schema.sourcelink.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Akbank.Schema/obj/Debug/net8.0/ref/Akbank.Schema.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank.Schema/obj/Debug/net8.0/ref/Akbank.Schema.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Akbank.Schema/obj/Debug/net8.0/refint/Akbank.Schema.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank.Schema/obj/Debug/net8.0/refint/Akbank.Schema.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Akbank.Schema/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank.Schema/obj/rider.project.model.nuget.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Akbank.Schema/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank.Schema/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Akbank/Akbank.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank/Akbank.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Akbank/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Akbank/bin/Debug/net8.0/Akbank.Base.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank/bin/Debug/net8.0/Akbank.Base.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Akbank/bin/Debug/net8.0/Akbank.Base.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank/bin/Debug/net8.0/Akbank.Base.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Akbank/bin/Debug/net8.0/Akbank.Data.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank/bin/Debug/net8.0/Akbank.Data.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Akbank/bin/Debug/net8.0/Akbank.Data.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank/bin/Debug/net8.0/Akbank.Data.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Akbank/bin/Debug/net8.0/Akbank.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank/bin/Debug/net8.0/Akbank.deps.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Akbank/bin/Debug/net8.0/Akbank.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank/bin/Debug/net8.0/Akbank.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Akbank/bin/Debug/net8.0/Akbank.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank/bin/Debug/net8.0/Akbank.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Akbank/bin/Debug/net8.0/Akbank.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank/bin/Debug/net8.0/Akbank.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Akbank/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Akbank/obj/Akbank.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank/obj/Akbank.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Akbank/obj/Akbank.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank/obj/Akbank.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Akbank/obj/Debug/net8.0/Akbank.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank/obj/Debug/net8.0/Akbank.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Akbank/obj/Debug/net8.0/Akbank.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank/obj/Debug/net8.0/Akbank.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Akbank/obj/Debug/net8.0/Akbank.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank/obj/Debug/net8.0/Akbank.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Akbank/obj/Debug/net8.0/Akbank.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank/obj/Debug/net8.0/Akbank.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Akbank/obj/Debug/net8.0/Akbank.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank/obj/Debug/net8.0/Akbank.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Akbank/obj/Debug/net8.0/Akbank.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank/obj/Debug/net8.0/Akbank.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Akbank/obj/Debug/net8.0/Akbank.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank/obj/Debug/net8.0/Akbank.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Akbank/obj/Debug/net8.0/Akbank.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank/obj/Debug/net8.0/Akbank.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Akbank/obj/Debug/net8.0/Akbank.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank/obj/Debug/net8.0/Akbank.sourcelink.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Akbank/obj/Debug/net8.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank/obj/Debug/net8.0/apphost.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Akbank/obj/Debug/net8.0/ref/Akbank.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank/obj/Debug/net8.0/ref/Akbank.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Akbank/obj/Debug/net8.0/refint/Akbank.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank/obj/Debug/net8.0/refint/Akbank.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Akbank/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Akbank/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Akbank/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Akbank/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank/obj/rider.project.model.nuget.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Akbank/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Akbank/obj/rider.project.restore.info" afterDir="false" />
-    </list>
+    <list default="true" id="7ec7fbf0-6470-4a93-ac12-31f19ac49b0a" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -210,7 +108,7 @@
       <workItem from="1705863817308" duration="2909000" />
       <workItem from="1705866964778" duration="11518000" />
       <workItem from="1705879005193" duration="2693000" />
-      <workItem from="1705881756927" duration="358000" />
+      <workItem from="1705881756927" duration="762000" />
     </task>
     <servers />
   </component>

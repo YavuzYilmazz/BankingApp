@@ -5,7 +5,7 @@ using MediatR;
 
 namespace Akbank.Business.Cqrs;
 
-// ExpenseCategory CQRS Sınıfları
+// ExpenseCategory CQRS
 public record CreateExpenseCategoryCommand(ExpenseCategoryRequest Model) : IRequest<ApiResponse<ExpenseCategoryResponse>>;
 public record UpdateExpenseCategoryCommand(int Id, ExpenseCategoryRequest Model) : IRequest<ApiResponse>;
 public record DeleteExpenseCategoryCommand(int Id) : IRequest<ApiResponse>;

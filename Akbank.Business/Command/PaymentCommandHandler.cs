@@ -30,7 +30,7 @@ public class PaymentCommandHandler :
     public async Task<ApiResponse<PaymentResponse>> Handle(CreatePaymentCommand request, CancellationToken cancellationToken)
     {
         var entity = mapper.Map<PaymentRequest, Payment>(request.Model);
-        // İlgili işlemleri yapabilirsiniz (örneğin ID ataması, vb.).
+        // operations (e.g. ID assignment, etc.).
 
         var entityResult = await dbContext.AddAsync(entity, cancellationToken);
         await dbContext.SaveChangesAsync(cancellationToken);
@@ -48,7 +48,7 @@ public class PaymentCommandHandler :
             return new ApiResponse("Record not found");
         }
 
-        // Gerekli güncelleme işlemlerini yapabilirsiniz.
+        // update.
         fromdb.PaymentAmount = request.Model.PaymentAmount;
         fromdb.PaymentDate = request.Model.PaymentDate;
 
@@ -66,7 +66,7 @@ public class PaymentCommandHandler :
             return new ApiResponse("Record not found");
         }
 
-        // Gerekli silme işlemlerini yapabilirsiniz.
+        // delete.
         fromdb.IsActive = false;
         await dbContext.SaveChangesAsync(cancellationToken);
         return new ApiResponse();

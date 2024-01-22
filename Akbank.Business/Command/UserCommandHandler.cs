@@ -27,7 +27,8 @@ public class UserCommandHandler :
     public async Task<ApiResponse<UserResponse>> Handle(CreateUserCommand request, CancellationToken cancellationToken)
     {
         var entity = mapper.Map<UserRequest, User>(request.Model);
-        // İlgili işlemleri yapabilirsiniz (örneğin ID ataması, vb.).
+        // operations (e.g. ID assignment, etc.).
+
 
         var entityResult = await dbContext.AddAsync(entity, cancellationToken);
         await dbContext.SaveChangesAsync(cancellationToken);
@@ -45,7 +46,7 @@ public class UserCommandHandler :
             return new ApiResponse("Record not found");
         }
 
-        // Gerekli güncelleme işlemlerini yapabilirsiniz.
+        // update.
         fromdb.UserName = request.Model.UserName;
         fromdb.Password = request.Model.Password;
         fromdb.IsAdmin = request.Model.IsAdmin;
@@ -64,7 +65,7 @@ public class UserCommandHandler :
             return new ApiResponse("Record not found");
         }
 
-        // Gerekli silme işlemlerini yapabilirsiniz.
+        // delete.
         fromdb.IsActive = false;
         await dbContext.SaveChangesAsync(cancellationToken);
         return new ApiResponse();
